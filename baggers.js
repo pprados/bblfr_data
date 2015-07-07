@@ -432,7 +432,7 @@ var data = {
             ],
             "twitter": "pprados",
             "contact": "brownbaglunch@prados.fr",
-            "mail": "brownbaglunch@prados",
+            "mail": "brownbaglunch@prados.fr",
             "location": "Paris, Banlieue ouest",
             "sessions": [
                 {
